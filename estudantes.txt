@@ -2,3 +2,6 @@ Jefferson
 Dangelo
 Leandro
 Bruno
+Alan
+Daniel
+Alessandra
